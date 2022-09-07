@@ -1,0 +1,17 @@
+<template>
+  <svg  width="23" height="23" viewBox="0 0 13 25" xmlns="http://www.w3.org/2000/svg">
+    <path d="M10.0238 4.58472H12.2132V0.771419C11.8355 0.719456 10.5364 0.602539 9.02346 0.602539C5.8667 0.602539 3.70423 2.58813 3.70423 6.23754V9.59616H0.220703V13.8591H3.70423V24.5855H7.97521V13.8601H11.3178L11.8485 9.59716H7.97421V6.66024C7.97521 5.42812 8.30697 4.58472 10.0238 4.58472Z" fill="currentColor"/>
+  </svg>
+
+</template>
+
+<script>
+
+export default {
+  name: "IconFacebook",
+}
+</script>
+
+<style lang="scss" module>
+
+</style>
